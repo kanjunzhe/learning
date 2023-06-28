@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "35c324aed84caf08",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e4610610402e313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beb301d0a8ad0b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/证明/证明：三角形三条中垂线交于圆心.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ba40c7aa744f980",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb1f0ab03b58ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc82c129413a9122",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f357573af5c56a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8fb9f9c5bfcbe72",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f813d62221ccd9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "9b32a533d8bae704",
+    "type": "split",
+    "children": [
+      {
+        "id": "7539b448bd21b9b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7d507d4a09ad835",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/证明/证明：三角形三条中垂线交于圆心.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29fd46f7d8a01396",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/证明/证明：三角形三条中垂线交于圆心.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da59260f8e710548",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9f50040f6223251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/证明/证明：三角形三条中垂线交于圆心.md"
+              }
+            }
+          },
+          {
+            "id": "7500d3417d22e831",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9986ecc7f0966f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "audio-recorder:开始/结束录音": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "dc82c129413a9122",
+  "lastOpenFiles": [
+    "证明：三角形三条中垂线交于圆心.pdf",
+    "img/Pasted image 20230628172747.png",
+    "img/Pasted image 20230628172735.png",
+    "img/屏幕截图 2023-06-28 170848.png",
+    "img/屏幕截图 2023-06-28 170238.png",
+    "数学/证明/证明：三角形三条中垂线交于圆心.md",
+    "数学/证明",
+    "数学/初中/韦达定理的应用.md",
+    "数学/初中/未命名.md",
+    "数学/线性代数.md",
+    "数学/初中/配方法进阶.md",
+    "配方法进阶.pdf",
+    "img/Pasted image 20230622154234.png",
+    "编程/C++基础.md",
+    "编程/opencv学习.md",
+    "数学/初中",
+    "编程/linux/Linux命令.md",
+    "编程/linux",
+    "数学/一元二次方程的解法.md",
+    "数学/专题一：勾股定理与三大变换.md",
+    "img/Pasted image 20230417210742.png",
+    "img/Pasted image 20230417210102.png",
+    "img/Pasted image 20230417204609.png",
+    "化学方程式.md",
+    "img/Pasted image 20230415164119.png",
+    "img/Pasted image 20230412223409.png",
+    "语文/初一语文自主复习资料 第6周.md",
+    "语文/初一语文自主复习资料 第1周.md",
+    "语文/初一语文自主复习资料 第5周.md",
+    "数学/三角函数.md",
+    "数学/集合.md",
+    "集合.pdf",
+    "天文学/太阳系 Solar System.md",
+    "太阳系 Solar System.pdf",
+    "天文学/月球Moon.md",
+    "天文学/火星Mars.md",
+    "天文学/水星Mercury.md",
+    "天文学/金星Venus.md",
+    "编程/深度学习.md",
+    "编程",
+    "audio/001.flac",
+    "audio",
+    "新建文件夹",
+    "img/Pasted.md",
+    "语文/初一语文自主复习资料 第3周.md",
+    "语文/初一语文自主复习资料 第2周.md"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "vimMode": false,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "/",
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
